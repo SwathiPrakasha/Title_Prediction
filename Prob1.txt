@@ -1,0 +1,14 @@
+Problem1-Description
+Given news headlines, build a model to classify them into one of the three news categories. 
+
+Problem1-Data
+For problem 1, please only use train1.csv and test1.csv under 1-Title_Classification folder for model building and result predicting. You are not allowed to use other training or testing dataset.
+(I) Training dataset: 7916 rows, 3 columns
+ID - unique identifier for each news 
+TITLE - news headline
+TOPIC - one of the three topics (0/1/2) (our y label)
+
+(II) Testing dataset: 3392 rows, 3 columns
+ID - unique identifier for each news 
+TITLE - news headline
+TOPIC - your predicted result (None)
